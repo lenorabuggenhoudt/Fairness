@@ -1,0 +1,5 @@
+A faire :
+- Autres methodes de reponderation
+- Voir les resultats de chaque avec le train_classifieur
+- Ajouter du post processing (pls meths)
+- Faire des duos entre meths de pre et post processing etc omparer les resultats
