@@ -1,0 +1,24 @@
+Attentes :
+- Analyse rapide des données: En plus court que le mi-projet, étudier le dataset
+et montrer les déséquilibres et biais.
+- Analyse de l’impact de la pondération sur les performances du modèles:
+Prendre en compte la performance en ’balanced accuracy” mais aussi sur les
+métriques de fairness. Essayer plusieurs méthodes de pondération
+- Analyse de l’impact du post-processing: Idem prendre en compte plusieurs
+critères pour la comparaison et tester plusieurs approches. Regarder les
+combinaisons pre/post processing
+- Soin: Comme toujours le rapport devra comporter une introduction, une
+conclusion et un soin devra être apporter pour aider la compréhension/lecture
+
+
+Notation :
+1/4: Rapport final:
+• Introduction (/3)
+• Preparation et analyse des données (/3)
+• Application des méthodes de pre processing (/5)
+• Application des méthodes de post processing (/5)
+• Analyse, compréhension (/3)
+• Conclusion (/1)
+1/2: Soutenance de 15 minutes, (10’ présentation, 5’ de questions)
+• Présentation avec illustration du travail effectué
+• Ainsi que de l’organisation choisie au sein du groupe
